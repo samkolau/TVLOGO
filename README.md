@@ -19,4 +19,4 @@
 
 【[四川](./md/SC.md)】  【[云南](./md/YN.md)】  【[贵州](./md/GZ.md)】  【[西藏](./md/XZ.md)】  【[重庆](./md/XQ.md)】
 
-【[辽宁](./md/LN.md)】  【[吉林](./md/JL.md)】  【[黑龙江](./md/JLJ.md)】
+【[辽宁](./md/LN.md)】  【[吉林](./md/JL.md)】  【[黑龙江](./md/HLJ.md)】
