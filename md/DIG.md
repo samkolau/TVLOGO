@@ -51,7 +51,7 @@
 |黑莓电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/hmdy.png">|黑莓动画|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/hmdh.png">|
 |3D试验频道|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/sz3dsypd.png">|长影频道|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/cypd.png">|
 |证券服务|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/inbm.png">|睛彩竞技|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩竞技.png">|
-|睛彩篮球|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩篮.png">|睛彩青少|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩青少.png">|
+|睛彩篮球|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩篮球.png">|睛彩青少|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩青少.png">|
 |睛彩广场舞|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/睛彩广场舞.png">|
 
 
