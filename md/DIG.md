@@ -32,7 +32,7 @@
 |书画频道|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/shpd.png">|优优宝贝|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/yybb.png">|
 |四海钓鱼|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/shdy.png">|环球旅游|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/hqly.png">|
 |足球频道|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/zqpd.png">|法制天地|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/fztd.png">|
-|魅力足球|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/mlzq.png">|国学频道|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/gxpd.png">|
+|魅力足球|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/魅力足球.png">|国学频道|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/gxpd.png">|
 |中华美食|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/zhms.png">|天元围棋|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/tywq.png">|
 |摄影频道|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/sypd.png">|现代教育|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/xdjy.png">|
 |精彩影视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/jcys.png">|金色学堂|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/jsxt.png">|
