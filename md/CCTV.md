@@ -21,5 +21,5 @@
 |CCTV文化精品|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV文化精品.png">|CCTV发现之旅|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV发现之旅.png">|
 |CCTV老故事|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV老故事.png">|CCTV中学生|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV中学生.png">|
 |CGTN|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN.png">|CGTN纪录|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN纪录.png">|
-|CGTN阿语|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN阿语">|CGTN俄语|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN俄语">|
-|CGTN法语|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN法语">|CGTN西语|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN西语">|
+|CGTN阿语|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN阿语.png">|CGTN俄语|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN俄语.png">|
+|CGTN法语|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN法语.png">|CGTN西语|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CGTN西语.png">|
