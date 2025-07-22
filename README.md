@@ -3,7 +3,7 @@
 
 > 中国
 > 
-【[CCTV](./md/CCTV.md)】  【[CGTN=中国教育电视台=新华社=中央新影](./md/CET.md)】
+【[CCTV](./md/CCTV.md)】  【[中国教育电视台/新华社](./md/CET.md)】
 
 【[全国卫视](./md/CN.md)】  【[港澳地区](./md/CNHK.md)】  【[台湾地区一](./md/CNTW01.md)】  【[台湾地区二](./md/CNTW02.md)】  【[台湾地区三](./md/CNTW03.md)】
 
