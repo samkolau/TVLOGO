@@ -42,3 +42,8 @@
 >南亚
 >
 【[印度](./md/IN.md)】  【[巴基斯坦](./md/PK.md)】  【[孟加拉](./md/BD.md)】  【[斯里兰卡](./md/LK.md)】
+>
+>Adult
+>
+【[Adult](./md/CR.md)】
+
