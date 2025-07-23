@@ -15,7 +15,7 @@
 |黑龙江卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/黑龙江卫视.png">|湖北卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/湖北卫视.png">|
 |湖南卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/湖南卫视.png">|吉林卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/吉林卫视.png">|
 |嘉佳卡通|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/嘉佳卡通.png">|江苏卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/江苏卫视.png">|
-|江西卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/江西卫视.png">|康巴卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/康巴卫视_.png">|
+|江西卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/江西卫视.png">|康巴卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/康巴卫视.png">|
 |金鹰纪实|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/金鹰纪实.png">|金鹰卡通|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/金鹰卡通.png">|
 |卡酷少儿|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/卡酷少儿.png">|辽宁卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/辽宁卫视.png">|
 |内蒙古卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/内蒙古卫视.png">|宁夏卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/宁夏卫视.png">|
