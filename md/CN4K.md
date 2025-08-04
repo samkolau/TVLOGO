@@ -1,4 +1,4 @@
-# 【安徽】台标PNG文件
+# 【中国4K】台标PNG文件
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
 |CCTV4K|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV4K.png">|CCTV16奥林匹克4K|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CCTV/CCTV16奥林匹克.png">|
