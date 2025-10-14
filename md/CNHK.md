@@ -2,7 +2,13 @@
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
 |CMC中国电影(香港)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/CMC中国电影(香港).png">|HOY76|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY76.png">|
-
+|HOY77|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY77.png">|HOY78|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78.png">|
+|KIX(香港)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/KIX(香港).png">|Movie Movie|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/Movie Movie.png">|
+|MyTV Super 18台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super 18台.png">|MyTV Super EYT|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super EYT.png">|
+|MyTV Super Free|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super Free.png">|MyTV Super Sports|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super Sports.png">|
+|MyTV Super 煲剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super 煲剧.png">|MyTV Super 单元剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super 单元剧.png">|
+|MyTV Super 儿童|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super 儿童.png">|MyTV Super 华语剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super 华语剧.png">|
+|MyTV Super 黄金翡翠台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super 黄金翡翠台.png">|MyTV Super 奖门人|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super 奖门人.png">|
 |凤凰中文台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png">|凤凰资讯台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png">|
 |凤凰香港台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png">|凤凰电影台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png">|
 |翡翠台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png">|明珠台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png">|
