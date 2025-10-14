@@ -20,9 +20,43 @@
 |NOW Sports 1|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports 1.png">|NOW Sports 2|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports 2.png">|
 |NOW Sports 3|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports 3.png">|NOW Sports 4|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports 4.png">|
 |NOW Sports 5|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports 5.png">|NOW Sports 6|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports 6.png">|
-|NOW Sports 7|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports 7.png">|NOW Sports 4|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports 4.png">|
-|凤凰中文台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png">|凤凰资讯台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png">|
-|凤凰香港台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png">|凤凰电影台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png">|
+|NOW Sports 7|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports 7.png">|NOW Sports 641|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports 641.png">|
+|NOW Sports 681|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports 681.png">|NOW Sports Plus|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports Plus.png">|
+|NOW Sports Premier 1|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports Premier 1.png">|NOW Sports Premier 2|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports Premier 2.png">|
+|NOW Sports Premier 3|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports Premier 3.png">|NOW Sports Premier 4|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports Premier 4.png">|
+|NOW Sports Premier 5|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports Premier 5.png">|NOW Sports Premier 6|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports Premier 6.png">|
+|NOW Sports Premier 7|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports Premier 7.png">|NOW Sports Prime|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW Sports Prime.png">|
+|NOW报价台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW报价台.png">|NOW爆谷台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW爆谷台.png">|
+|NOW爆谷星影台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW爆谷星影台.png">|NOW财经台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW财经台.png">|
+|NOW华剧台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NOW华剧台.png">|NOW跑马668|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NOW跑马668.png">|
+|NOW新闻台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW新闻台.png">|NOW直播台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW直播台.png">|
+|NOW紫金国际|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/NOW紫金国际.png">|PopC|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/PopC.png">|
+|RTHK31|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png">|RTHK32|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png">|
+|RTHK33|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK33.png">|RTHK34|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK34.png">|
+|RTHK35|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK35.png">|Thrill(香港)|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Thrill(香港).png">|
+|TVB Drama翡翠剧集台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB Drama翡翠剧集台.png">|TVB News无线新闻台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB News无线新闻台.png">|
+|TVB 1翡翠1台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB 1翡翠1台.png">|TVB e翡翠娱乐台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB e翡翠娱乐台.png">|
+|TVB J1翡翠综合台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB J1翡翠综合台.png">|TVB Pearl Drama明珠剧集台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB Pearl Drama明珠剧集台.png">|
+|TVB Plus|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB Plus.png">|TVB Vietnam翡翠越南台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB Vietnam翡翠越南台.png">|
+|TVB财经体育台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB财经体育台.png">|TVB翡翠台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB翡翠台.png">|
+|TVB功夫台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB功夫台.png">|TVB明珠台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB明珠台.png">|
+|TVB新闻台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB新闻台.png">|TVB星河台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB星河台.png">|
+|TVB娱乐新闻台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB娱乐新闻台.png">|TVB直播台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB直播台.png">|
+|ViuTV|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ViuTV.png">|ViuTV6|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ViuTV6.png">|
+|ViuTV剧集|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ViuTV剧集.png">|澳门Macau|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/澳门Macau.png">|
+|澳门莲花|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/澳门莲花.png">|澳门体育|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/澳门体育.png">|
+|澳门有线1台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/澳门有线1台.png">|澳门有线2台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/澳门有线2台.png">|
+|澳门有线3台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/澳门有线3台.png">|澳门资讯|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/澳门资讯.png">|
+|澳门综艺|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/澳门综艺.png">|澳视澳门|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/澳视澳门.png">|
+|澳视葡文|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/澳视葡文.png">|澳亚卫视|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/澳亚卫视.png">|
+|凤凰电影|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/凤凰电影.png">|凤凰美洲|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/凤凰美洲.png">|
+|凤凰香港|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/凤凰香港.png">|凤凰中文|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/凤凰中文.png">|
+|凤凰资讯|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/凤凰资讯.png">|黄金华剧台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/黄金华剧台.png">|
+|龙祥电影国际|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/龙祥电影国际.png">|美亚电影香港|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/美亚电影香港.png">|
+|赛马88台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/赛马88台.png">|香港卫视|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/香港卫视.png">|
+|香港卫视文旅台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/香港卫视文旅台.png">|亚太ONE综合|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/亚太ONE综合.png">|
+|耀才财经|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/耀才财经.png">|有线18台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/有线18台.png">|
+|Fashion Box|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Fashion Box.png">|有线18台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/有线18台.png">|
 |翡翠台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png">|明珠台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png">|
 |J2|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png">|无线新闻台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png">|
 |无线财经资讯台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB5.png">|无线星河台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png">|
