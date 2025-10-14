@@ -1,6 +1,8 @@
 # 【港澳地区】台标PNG文件
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
+|CMC中国电影(香港)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/CMC中国电影(香港).png">|HOY76|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY76.png>|
+
 |凤凰中文台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png">|凤凰资讯台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png">|
 |凤凰香港台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png">|凤凰电影台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png">|
 |翡翠台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png">|明珠台|<img src="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png">|
