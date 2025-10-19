@@ -17,7 +17,7 @@
 |iHOT爱体育|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱体育.png">|iHOT爱玩具|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱玩具.png">|
 |iHOT爱喜剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱喜剧.png">|iHOT爱悬疑|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱悬疑.png">|
 |iHOT爱幼教|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱幼教.png">|iHOT爱娱乐|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱娱乐.png">|
-|iHOT爱院线|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱院线.png">||NewTV爱情喜剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV爱情喜剧.png">|
+|iHOT爱院线|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱院线.png">|NewTV爱情喜剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV爱情喜剧.png">|
 |NewTV超级电视剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电视剧.png">|NewTV超级电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电影.png">|
 |NewTV超级体育|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级体育.png">|NewTV超级综艺|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级综艺.png">|
 |NewTV潮妈辣婆|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV潮妈辣婆.png">|NewTV东北热剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV东北热剧.png">|
