@@ -3,7 +3,22 @@
 |:---|:---:|:---|:---:|
 |CHC影迷电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC影迷电影.png">|CHC家庭影院|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC家庭影院.png">|
 |CHC动作电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC动作电影.png">|求索纪录4K|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo5.png">|
-|求索纪录|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo1.png">|求索科学|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo2.png">|
+|求索纪录|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo1.png">|iHOT爱电竞|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱电竞.png">|
+|iHOT爱谍战|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱谍战.png">|iHOT爱动漫|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱动漫.png">|
+|iHOT爱都市|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱都市.png">|iHOT爱怀旧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱怀旧.png">|
+|iHOT爱极限|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱极限.png">|iHOT爱家庭|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱家庭.png">|
+|iHOT爱江湖|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱江湖.png">|iHOT爱解密|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱解密.png">|
+|iHOT爱经典|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱经典.png">|iHOT爱科幻|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱科幻.png">|
+|iHOT爱科学|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱科学.png">|iHOT爱浪漫|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱浪漫.png">|
+|iHOT爱历史|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱历史.png">|iHOT爱猎奇|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱猎奇.png">|
+|iHOT爱旅行|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱旅行.png">|iHOT爱美食|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱美食.png">|
+|iHOT爱奇谈|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱奇谈.png">|iHOT爱青春|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱青春.png">|
+|iHOT爱赛车|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱赛车.png">|iHOT爱时尚|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱时尚.png">|
+|iHOT爱世界|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱世界.png">|iHOT爱探索|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱探索.png">|
+|iHOT爱体育|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱体育.png">|iHOT爱玩具|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱玩具.png">|
+|iHOT爱喜剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱喜剧.png">|iHOT爱悬疑|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱悬疑.png">|
+|iHOT爱幼教|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱幼教.png">|iHOT爱娱乐|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱娱乐.png">|
+|iHOT爱院线|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱院线.png">|
 |求索动物|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo3.png">|求索生活|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo4.png">|
 |CBN每日影院|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CBN1.png">|CBN幸福剧场|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CBN2.png">|
 |CBN幸福娱乐|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CBN3.png">|CBN风尚生活|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CBN4.png">|
