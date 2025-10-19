@@ -25,6 +25,7 @@
 |陕西卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/陕西卫视.png">|深圳卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/深圳卫视.png">|
 |四川卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/四川卫视.png">|天津卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/天津卫视.png">|
 |西藏卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/西藏卫视.png">|西藏藏语|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/西藏藏语.png">|
-|新疆卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/新疆卫视.png">|延边卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/延边卫视.png">|
-|优漫卡通|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/优漫卡通.png">|云南卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/云南卫视.png">|
-|浙江卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/浙江卫视.png">|珠江卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/珠江卫视.png">|
+|厦门卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/厦门卫视.png">|新疆卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/新疆卫视.png">|
+|延边卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/延边卫视.png">|优漫卡通|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/优漫卡通.png">|
+|云南卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/云南卫视.png">|浙江卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/浙江卫视.png">|
+|珠江卫视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CN/珠江卫视.png">|
