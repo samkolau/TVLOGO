@@ -1,8 +1,8 @@
 # 【数字频道】台标PNG文件
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
-|CHC高清电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC1.png">|CHC家庭影院|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC2.png">|
-|CHC动作电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC3.png">|求索纪录4K|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo5.png">|
+|CHC高清电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC高清电影.png">|CHC家庭影院|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC家庭影院.png">|
+|CHC动作电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC动作电影.png">|求索纪录4K|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo5.png">|
 |求索纪录|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo1.png">|求索科学|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo2.png">|
 |求索动物|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo3.png">|求索生活|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo4.png">|
 |CBN每日影院|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CBN1.png">|CBN幸福剧场|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CBN2.png">|
