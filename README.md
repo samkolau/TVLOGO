@@ -5,7 +5,7 @@
 > 
 【[CCTV](./md/CCTV.md)】  【[中国教育电视台/新华社](./md/CET.md)】
 
-【[全国卫视](./md/CN.md)】  【[地方卫视](./md/DIG.md)】  【[港澳地区](./md/CNHK.md)】  【[台湾省](./md/CNTW.md)】
+【[全国卫视](./md/CN.md)】  【[地方卫视](./md/DIG.md)】  【[港澳特区](./md/CNHK.md)】  【[台湾省](./md/CNTW.md)】
 
 【[山东](./md/SD.md)】  【[江苏](./md/JS.md)】  【[安徽](./md/AH.md)】  【[浙江](./md/ZJ.md)】  【[福建](./md/FJ.md)】  【[上海](./md/SH.md)】
 
