@@ -2,8 +2,7 @@
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
 |CHC影迷电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC影迷电影.png">|CHC家庭影院|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC家庭影院.png">|
-|CHC动作电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC动作电影.png">|求索纪录4K|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo5.png">|
-|求索纪录|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo1.png">|iHOT爱电竞|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱电竞.png">|
+|CHC动作电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CHC动作电影.png">|iHOT爱电竞|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱电竞.png">|
 |iHOT爱谍战|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱谍战.png">|iHOT爱动漫|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱动漫.png">|
 |iHOT爱都市|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱都市.png">|iHOT爱怀旧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱怀旧.png">|
 |iHOT爱极限|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱极限.png">|iHOT爱家庭|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱家庭.png">|
@@ -18,7 +17,21 @@
 |iHOT爱体育|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱体育.png">|iHOT爱玩具|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱玩具.png">|
 |iHOT爱喜剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱喜剧.png">|iHOT爱悬疑|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱悬疑.png">|
 |iHOT爱幼教|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱幼教.png">|iHOT爱娱乐|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱娱乐.png">|
-|iHOT爱院线|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱院线.png">|
+|iHOT爱院线|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/iHOT爱院线.png">||NewTV爱情喜剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV爱情喜剧.png">|
+|NewTV超级电视剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电视剧.png">|NewTV超级电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级电影.png">|
+|NewTV超级体育|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级体育.png">|NewTV超级综艺|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV超级综艺.png">|
+|NewTV潮妈辣婆|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV潮妈辣婆.png">|NewTV东北热剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV东北热剧.png">|
+|NewTV动作电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV动作电影.png">|NewTV古装剧场|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV古装剧场.png">|
+|NewTV海外剧场|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV海外剧场.png">|NewTV欢乐剧场|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV欢乐剧场.png">|
+|NewTV家庭剧场|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV家庭剧场.png">|NewTV金牌综艺|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV金牌综艺.png">|
+|NewTV惊悚悬疑|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV惊悚悬疑.png">|NewTV精品大剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品大剧.png">|
+|NewTV精品纪录|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品纪录.png">|NewTV精品萌宠|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品萌宠.png">|
+|NewTV精品体育|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV精品体育.png">|NewTV军旅剧场|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV军旅剧场.png">|
+|NewTV军事评论|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV军事评论.png">|NewTV魅力潇湘|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV魅力潇湘.png">|
+|NewTV明星大片|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV明星大片.png">|NewTV农业致富|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV农业致富.png">|
+|NewTV武搏世界|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV武搏世界.png">|NewTV炫舞未来|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV炫舞未来.png">|
+|NewTV怡伴健康|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV怡伴健康.png">|NewTV中国功夫|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/NewTV中国功夫.png">|
+|求索纪录|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo1.png">|求索纪录4K|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo5.png">|
 |求索动物|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo3.png">|求索生活|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/Qiusuo4.png">|
 |CBN每日影院|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CBN1.png">|CBN幸福剧场|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CBN2.png">|
 |CBN幸福娱乐|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CBN3.png">|CBN风尚生活|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/CBN4.png">|
