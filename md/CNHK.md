@@ -1,4 +1,4 @@
-# 【港澳地区】台标PNG文件
+# 【港澳特区】台标PNG文件
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
 |CMC中国电影(香港)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/CMC中国电影(香港).png">|HOY76|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY76.png">|
