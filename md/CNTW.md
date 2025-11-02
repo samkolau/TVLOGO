@@ -57,7 +57,7 @@
 |东森戏剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森戏剧.png">|东森戏剧美洲|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森戏剧美洲.png">|
 |东森新闻|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森新闻.png">|东森新闻美洲|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森新闻美洲.png">|
 |东森亚洲|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森亚洲.png">|东森洋片|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森洋片.png">|
-|东森幼幼|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森幼幼.png">|东森幼幼国际|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森幼幼国际.png">|
+|东森幼幼|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森幼幼.png">|
 |东森中国台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森中国台.png">|东森综合|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/东森综合.png">|
 |动物星球(中文)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/动物星球(中文).png">|动物星球台湾|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/动物星球台湾.png">|
 |非凡商业|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/非凡商业.png">|非凡新闻|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/非凡新闻.png">|
