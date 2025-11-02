@@ -44,7 +44,7 @@
 |八大优频道|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大优频道.png">|八大娱乐|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大娱乐.png">|
 |八大综合|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大综合.png">|八大综艺|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大综艺.png">|
 |博斯高球1|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯高球1.png">|博斯高球2|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯高球2.png">|
-|博斯魅力|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯魅力.png">|博斯赛事|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯赛事.png">|
+|博斯魅力|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯魅力.png">|
 |博斯网球|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯网球.png">|博斯无限1|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯无限1.png">|
 |博斯无限2|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯无限2.png">|博斯运动1|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯运动1.png">|
 |博斯运动2|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/博斯运动2.png">|采昌影剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/采昌影剧.png">|
