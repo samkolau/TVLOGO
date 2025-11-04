@@ -3,8 +3,8 @@
 |:---|:---:|:---|:---:|
 |CMC中国电影(香港)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/CMC中国电影(香港).png">|HOY72怪谈|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY72怪谈.png">|
 |HOY73剧集|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY73剧集.png">|HOY74生活|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY74生活.png">|
-|HOY75体育|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY75体育.png">|HOY76国际财经|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY76国际财经.png">|
-|HOYTV(77)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOYTV(77).png">|HOY78资讯|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78资讯.png">|
+|HOY75体育|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY75体育.png">|HOY76财经|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY76财经.png">|
+|HOY77电视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY77电视.png">|HOY78资讯|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78资讯.png">|
 |KIX(香港)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/KIX(香港).png">|Movie Movie|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/Movie Movie.png">|
 |MyTV Super 18台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super 18台.png">|MyTV Super EYT|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super EYT.png">|
 |MyTV Super Free|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super Free.png">|MyTV Super Sports|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super Sports.png">|
