@@ -1,8 +1,8 @@
 # 【港澳特区】台标PNG文件
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
-|CMC中国电影(香港)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/CMC中国电影(香港).png">|HOY76|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY76.png">|
-|HOY77|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY77.png">|HOY78|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78.png">|
+|CMC中国电影(香港)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/CMC中国电影(香港).png">|HOY76国际财经|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY76国际财经.png">|
+|HOYTV(77)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOYTV(77).png">|HOY78资讯|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/HOY78资讯.png">|
 |KIX(香港)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/KIX(香港).png">|Movie Movie|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/Movie Movie.png">|
 |MyTV Super 18台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super 18台.png">|MyTV Super EYT|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super EYT.png">|
 |MyTV Super Free|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super Free.png">|MyTV Super Sports|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNHK/MyTV Super Sports.png">|
