@@ -52,7 +52,7 @@
 |求索科学|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/求索科学.png">|求索生活|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/求索生活.png">|
 |生活时尚|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/生活时尚.png">|四海钓鱼|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/四海钓鱼.png">|
 |天元围棋|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/天元围棋.png">|文物宝库|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/文物宝库.png">|
-|武术世界|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/武术世界.png">|先锋乒羽|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/先锋乒羽.png">|
+|中华功夫|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/中华功夫.png">|先锋乒羽|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/先锋乒羽.png">|
 |新动漫|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/新动漫.png">|新视觉|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/新视觉.png">|
 |游戏风云|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/游戏风云.png">|中国天气|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/中国天气.png">|
 |中华美食|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/中华美食.png">|中华特产|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/DIG/中华特产.png">|
