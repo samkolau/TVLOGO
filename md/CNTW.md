@@ -95,7 +95,7 @@
 |三立台湾|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/三立台湾.png">|三立戏剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/三立戏剧.png">|
 |三立新闻|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/三立新闻.png">|三立综合|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/三立综合.png">|
 |时尚运动X|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/时尚运动X.png">|视纳华仁纪实|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/视纳华仁纪实.png">|
-|索尼动画Animax(台湾)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼动画Animax(台湾).png">|索尼影视AXN(台湾)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼影视AXN(台湾).png">|
+|索尼动画Animax台湾|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼动画Animax台湾.png">|索尼影视AXN台湾|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/索尼影视AXN台湾.png">|
 |台视|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/台视.png">|台视财经|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/台视财经.png">|
 |台视新闻|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/台视新闻.png">|台视综合|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/台视综合.png">|
 |台湾Plus|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/台湾Plus.png">|台湾戏剧台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/台湾戏剧台.png">|
