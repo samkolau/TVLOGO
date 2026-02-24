@@ -9,19 +9,19 @@
 
 【[全国卫视](./md/CN.md)】  【[数字频道](./md/DIG.md)】  【[地方卫视](./md/CNDF.md)】  【[港澳特区](./md/CNHK.md)】  【[台湾省](./md/CNTW.md)】
 
-【[山东](./md/SD.md)】  【[江苏](./md/JS.md)】  【[安徽](./md/AH.md)】  【[浙江](./md/ZJ.md)】  【[福建](./md/FJ.md)】  【[上海](./md/SH.md)】
+【[山东县市](./md/SD.md)】  【[江苏县市](./md/JS.md)】  【[安徽县市](./md/AH.md)】  【[浙江县市](./md/ZJ.md)】  【[福建县市](./md/FJ.md)】  【[上海](./md/SH.md)】
 
-【[广东](./md/GD.md)】  【[广西](./md/GX.md)】  【[海南](./md/HIN.md)】
+【[广东县市](./md/GD.md)】  【[广西县市](./md/GX.md)】  【[海南县市](./md/HIN.md)】
 
-【[湖南](./md/HUN.md)】  【[湖北](./md/HUB.md)】  【[河南](./md/HEN.md)】  【[江西](./md/JX.md)】
+【[湖南县市](./md/HUN.md)】  【[湖北县市](./md/HUB.md)】  【[河南县市](./md/HEN.md)】  【[江西县市](./md/JX.md)】
 
-【[北京](./md/BJ.md)】  【[天津](./md/TJ.md)】  【[河北](./md/HEB.md)】  【[山西](./md/SX.md)】  【[内蒙古](./md/NM.md)】
+【[北京](./md/BJ.md)】  【[天津](./md/TJ.md)】  【[河北县市](./md/HEB.md)】  【[山西县市](./md/SX.md)】  【[内蒙古县市](./md/NM.md)】
 
-【[宁夏](./md/NX.md)】  【[新疆](./md/XJ.md)】  【[青海](./md/QH.md)】  【[陕西](./md/SAX.md)】  【[甘肃](./md/GS.md)】
+【[宁夏县市](./md/NX.md)】  【[新疆县市](./md/XJ.md)】  【[青海县市](./md/QH.md)】  【[陕西县市](./md/SAX.md)】  【[甘肃县市](./md/GS.md)】
 
-【[四川](./md/SC.md)】  【[云南](./md/YN.md)】  【[贵州](./md/GZ.md)】  【[西藏](./md/XZ.md)】  【[重庆](./md/XQ.md)】
+【[四川县市](./md/SC.md)】  【[云南县市](./md/YN.md)】  【[贵州县市](./md/GZ.md)】  【[西藏县市](./md/XZ.md)】  【[重庆](./md/XQ.md)】
 
-【[辽宁](./md/LN.md)】  【[吉林](./md/JL.md)】  【[黑龙江](./md/HLJ.md)】
+【[辽宁县市](./md/LN.md)】  【[吉林县市](./md/JL.md)】  【[黑龙江县市](./md/HLJ.md)】
 
 > 4K频道
 > 
