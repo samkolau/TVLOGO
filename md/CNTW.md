@@ -6,7 +6,7 @@
 |CatchPlay电影|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CatchPlay电影.png">|Cbeebies(台湾)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Cbeebies(台湾).png">|
 |CinemaWorld(台湾)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CinemaWorld(台湾).png">|Cinemax(台湾)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Cinemax(台湾).png">|
 |CI罪案侦缉(台湾)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CI罪案侦缉(台湾).png">|CLASSICA古典音乐台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CLASSICA古典音乐台.png">|
-|CMusic|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CMusic.png">|CN卡通台湾|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CN卡通台湾.png">|
+|CMusic(台湾)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CMusic(台湾).png">|CN卡通台湾|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/CN卡通台湾.png">|
 |DAZN1台湾|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/DAZN1台湾.png">|DAZN2台湾|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/DAZN2台湾.png">|
 |DAZN3台湾|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/DAZN3台湾.png">|Dreamworks(台湾)|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/Dreamworks(台湾).png">|
 |ELTV生活英语|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ELTV生活英语.png">|ETtoday综合|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/ETtoday综合.png">|
