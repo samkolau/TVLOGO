@@ -18,7 +18,7 @@
 |Flamingo|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/Flamingo.png">|KMP Channel|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/KMP Channel.png">|
 |NV-Paradise|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/NV-Paradise.png">|Paradise TV|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/Paradise TV.png">|
 |Pigoo|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/Pigoo.png">|Playboy|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/Playboy.png">|
-|Rainbow Channel|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/Rainbow Channel.png">|Red Cherry|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/Red Cherry">|
+|Rainbow Channel|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/Rainbow Channel.png">|Red Cherry|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/Red Cherry.png">|
 |Splash|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/Splash.png">|V Paradise|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/V Paradise.png">|
 |Vanillasky|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/Vanillasky.png">|Venus Japan|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/Venus Japan.png">|
 |ZapTV|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CR/ZapTV.png">
