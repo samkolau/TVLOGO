@@ -18,7 +18,7 @@
 |GSTV宝石频道|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/GSTV宝石频道.png">|Home Drama|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/Home Drama.png">|
 |J COM BS|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/J COM BS.png">|J Sports 1|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/J Sports 1.png">|
 |J Sports 2|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/J Sports 2.png">|J Sports 3|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/J Sports 3.png">|
-|J Sports 4|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/J Sports 4.png">|Kids Station|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/Kids Station.png">|
+|J Sports 4|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/J Sports 4.png">|
 |KBS京都|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/KBS京都.png">|Kids Station|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/Kids Station.png">|
 |KNTV|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/KNTV.png">|LALA女性频道|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/LALA女性频道.png">|
 |Mnet Japan|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/Mnet Japan.png">|Mondo TV|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/Mondo TV.png">|
