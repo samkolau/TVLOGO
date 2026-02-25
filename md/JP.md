@@ -1,3 +1,6 @@
+# 【日本电视台】台标PNG文件
+|频道名|台标图片|频道名|台标图片|
+|:---|:---:|:---|:---:|
 |Action Channel|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/Action Channel.png">|Animax日本|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/Animax日本.png">|
 |AT-X|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/AT-X.png">|BS10 Premium|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/BS10 Premium.png">|
 |BS10|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/BS10.png">|BS11|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/JP/BS11.png">|
