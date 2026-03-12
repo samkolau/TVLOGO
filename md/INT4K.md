@@ -1,4 +1,4 @@
-# 【国际4K】台标PNG文件
+# 【国际4K-俄罗斯】台标PNG文件
 |频道名|台标图片|频道名|台标图片|
 |:---|:---:|:---|:---:|
 |BOX History 4K HDR|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/INT4K/BOX History 4K HDR.png">|BOX Kosmo 4K HDR.png|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/INT4K/BOX Kosmo 4K HDR.png">|
