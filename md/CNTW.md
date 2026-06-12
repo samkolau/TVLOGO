@@ -35,7 +35,7 @@
 |爱尔达体育4台|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达体育4台.png">|爱尔达体育MAX1|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达体育MAX1.png">|
 |爱尔达体育MAX2|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达体育MAX2.png">|爱尔达体育MAX3|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达体育MAX3.png">|
 |爱尔达体育MAX4|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达体育MAX4.png">|爱尔达影剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达影剧.png">|
-|爱尔达娱乐|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达娱乐.png">|爱尔达综合|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达综合.png">|
+|爱尔达宠物运动|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达宠物运动.png">|爱尔达综合|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/爱尔达综合.png">|
 |八大第一|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大第一.png">|八大精彩|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大精彩.png">|
 |八大戏剧|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大戏剧.png">|八大优频道|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大优频道.png">|
 |八大娱乐|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大娱乐.png">|八大综合|<img src="https://raw.githubusercontent.com/samkolau/TVLOGO/main/logo/CNTW/八大综合.png">|
